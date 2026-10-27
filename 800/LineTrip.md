@@ -26,5 +26,5 @@ int main(){
 ```
 
 ## COMPLEXITY
- time - N
- space - N (for storing array)
+- time - N
+- space - N (for storing array)
