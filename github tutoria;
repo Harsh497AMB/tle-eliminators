@@ -1,0 +1,20 @@
+git init - initialize git in the current directory(cd) / create repo locally
+git add - used to track the file by git (send the file in staging area)
+git diff - tells the difference b/w this and previous version
+git rm - remove the file from tracking
+git commit - to commit the code (in the staging area)
+git log - show the histroy of commits
+git show :id - shows the changes made on the commit id
+git blame :file - shows the log of every line
+git status - local changes
+git reset --hard :commit_id - to revert back changes (deltes the previous commit)
+git revert :commit_id - to revert the particular code
+
+GITHUB
+
+git rmeote add :nickname_name :link - connect to github
+git push -u :nickname :branch - push to branch
+git push -f - used to push forcefully (when the local and server head are different)
+
+BRANCHING
+
