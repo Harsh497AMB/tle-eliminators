@@ -1,3 +1,6 @@
+## PROBLEM
+https://codeforces.com/problemset/problem/1903/A
+
 ##  Observation
 
 - If `k > 1`, the array can be sorted using the allowed operations.
