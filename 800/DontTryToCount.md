@@ -1,6 +1,15 @@
 ## PROBLEM
 https://codeforces.com/problemset/problem/1881/A
 
+## NEW THING LEARNED
+
+```
+//USED TO CHECK THE SUBSTRING EXIST IN A STRING
+if (s.find("abc") != string::npos) {
+    // substring found
+}
+```
+
 ## SOLUTION
 
 ```cpp
